@@ -1,0 +1,11 @@
+1. название проекта
+2. ID
+3. описание (title)
+4. окружение (environment)
+5. preconditions
+6. шаги воспроизведения (STR)
+7. фактический результат (AR)
+8. ожидаемый результат (ER)
+9. priority
+10. severity
+11. attachments
