@@ -6,3 +6,5 @@
 6. результат
 7. вложения (прикрепленные файлы)
 8. комментарии
+пример:
+https://docs.google.com/spreadsheets/d/1m95jZtB_W0m_itAVliv6CO6DuDQ8KOGIx51P8TKr9GA/edit#gid=0
